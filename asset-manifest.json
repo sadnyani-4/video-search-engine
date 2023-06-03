@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/video-search-engine/static/css/main.4458c5dd.css",
+    "main.js": "/video-search-engine/static/js/main.58ad04e4.js",
+    "static/media/pawxy_logo-removebg-preview.png": "/video-search-engine/static/media/pawxy_logo-removebg-preview.0bcd910deab743950194.png",
+    "static/media/left-arrow.svg": "/video-search-engine/static/media/left-arrow.c7ef2894aed020c92cf5fee760a67dc7.svg",
+    "static/media/search-icon.svg": "/video-search-engine/static/media/search-icon.e84b76d88d2d1a5de1e395a4d09ead28.svg",
+    "static/media/right-arrow-svgrepo-com.svg": "/video-search-engine/static/media/right-arrow-svgrepo-com.c82cf1f5b89bdde3bf8908c5cd6e1bdd.svg",
+    "index.html": "/video-search-engine/index.html",
+    "main.4458c5dd.css.map": "/video-search-engine/static/css/main.4458c5dd.css.map",
+    "main.58ad04e4.js.map": "/video-search-engine/static/js/main.58ad04e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4458c5dd.css",
+    "static/js/main.58ad04e4.js"
+  ]
+}
